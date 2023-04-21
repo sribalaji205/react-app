@@ -6,9 +6,10 @@ import About from './containers/About';
 import Post from './containers/Post';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import MainPage from './pages';
-import PageNotFound from './pages/404';
+import MainPage from "./pages";
+import PageNotFound from "./pages/404";
 import Layout from "./components/VitraWrapper/Layout";
+import "vitra-web-translator/dist/esm/styles/index.css";
 
 class App extends Component {
 	render() {
