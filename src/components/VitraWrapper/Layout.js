@@ -4,8 +4,8 @@ import VitraWebTranslator from "vitra-web-translator";
 const Layout = ({ children }) => {
 	return (
 		<VitraWebTranslator
-			apiKey="vitra.oVPNAOAnilCVHr0hOUM0BfAyuZDuTh"
-			glossaryId="cd8db087-4158-46cf-9f8f-2bb78e07f7fa"
+			apiKey="vitra.b8Fes0SfivO6FzM3fzZmZhnQpj_oRs"
+			glossaryId="ff324dc4-3936-4960-8308-2c6e98030f16"
 			position="center-right"
 			theme="dark"
 		>
