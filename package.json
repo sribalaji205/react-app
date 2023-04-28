@@ -10,7 +10,7 @@
 		"react-dom": "^18.2.0",
 		"react-router-dom": "^5.1.2",
 		"react-scripts": "^5.0.1",
-		"vitra-web-translator": "^1.0.29"
+		"vitra-web-translator": "https://d1wrgmw2jqph3l.cloudfront.net/web-translate/vitra-web-translator-1.0.30.tgz"
 	},
 	"scripts": {
 		"start": "react-scripts start",
